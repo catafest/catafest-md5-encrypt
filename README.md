@@ -1,4 +1,4 @@
-# catafest-mk5-encrypt
+# catafest-md5-encrypt
 
 simple interface in PyQt6 to encrypt one string into MD5.
 
